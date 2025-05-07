@@ -1,4 +1,4 @@
-MastodonBotについて
+MastodonQuoteBotについて
 
 #そもそもこれは何#
 txtファイルの内容をマストドンに自動投稿するプログラムです。
